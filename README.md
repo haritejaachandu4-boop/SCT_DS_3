@@ -1,2 +1,4 @@
 # SCT_DS_3
-Building a decision tree to predict customer choice
+Build a decision tree classifier to predict whether a
+customer will purchase a product or service based on
+their demographic and behavioral data. Use a datase
